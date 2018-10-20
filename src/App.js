@@ -3,7 +3,8 @@ import axios from 'axios';
 
 import MainLayout from './layouts/MainLayout/main-layout';
 
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import './App.scss';
 
 class App extends Component {
   constructor(props) {
