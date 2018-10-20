@@ -1,0 +1,115 @@
+{
+  "siteData": [
+    {
+      "id": 0,
+      "title": "Expertise",
+      "subtitle": "",
+      "content": [
+        {
+          "id": 0,
+          "title": "Process",
+          "text": "Software Project Management, Software Requirements, Model Based Development, Software Design & Architecture (Multi-Core), ASPICE, V-Cycle / Agile, Validation & Verification, Testing Automation",
+          "img": "./images/icons/gear.svg"
+        },
+        {
+          "id": 1,
+          "title": "Model Based Dev.",
+          "text": "MATLAB, Simulink, Stateflow, IBM Rational Rhapsody, Enterprise Architect",
+          "img": "./images/icons/layers-icon.svg"
+        },
+        {
+          "id": 2,
+          "title": "Autosar",
+          "text": "BSW MSR SLP BAC OS COM NvM CDD's Security Config, UDS Config",
+          "img": "./images/icons/gauge.svg"
+        },
+        {
+          "id": 3,
+          "title": "Safety",
+          "text": "FuSi ISO 26262 IEC 61508",
+          "img": "./images/icons/shield.svg"
+        },
+        {
+          "id": 4,
+          "title": "Safety Relevant Sys.",
+          "text": "Electronic Steering Column Lock Electric Power Steering",
+          "img": "./images/icons/bug.svg"
+        },
+        {
+          "id": 5,
+          "title": "Connectivity",
+          "text": "On-Line Remote Update UDS",
+          "img": "./images/icons/wifi.svg"
+        },
+        {
+          "id": 6,
+          "title": "Security",
+          "text": "Encoding Cryptology High Security Module",
+          "img": "./images/icons/lock.svg"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Careers",
+      "subtitle": "As a part of the Automotive World we developed various software systems for leading automotive suppliers:",
+      "content": [
+        {
+          "id": 0,
+          "title": "",
+          "text": "Battery Management Systems"
+        },
+        {
+          "id": 1,
+          "title": "",
+          "text": "Advanced Driver Assistance Systems"
+        },
+        {
+          "id": 2,
+          "title": "",
+          "text": "Multi-Core Applications"
+        },
+        {
+          "id": 3,
+          "title": "",
+          "text": "Inter-Core Communication Solutions"
+        },
+        {
+          "id": 4,
+          "title": "",
+          "text": "Integration testing automation framework tool validated for ISO 26262"
+        },
+        {
+          "id": 5,
+          "title": "",
+          "text": "Flash Bootloader (including Online Remote Update)"
+        },
+        {
+          "id": 6,
+          "title": "",
+          "text": "Body Control Module"
+        },
+        {
+          "id": 7,
+          "title": "",
+          "text": "Keyless Go and Remote-Key (ASIL B)"
+        },
+        {
+          "id": 8,
+          "title": "",
+          "text": "ABS / ESP systems"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "About Us",
+      "subtitle": "Developing software projects and electronical systems in various industries each of us tried to challenge the status quo individually. We improve automatize and develop each step in the products we worked for. During the last 15 years the embedded software products and tools diversify and penetrated all industries, we evolved and improved the skill sets we master together seeking to push further and evolve. Our target is to hit the milestone of reliability and quality through what we do best communication and software."
+    },
+    {
+      "id": 3,
+      "title": "Contact",
+      "subtitle": ""
+    }
+  ]
+}

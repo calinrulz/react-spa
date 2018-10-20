@@ -1,0 +1,43 @@
+/* Left Side Nav */
+.footerContainer {
+  display: flex;
+  align-items: center;
+  background-color: #111111;
+  height: 100px;
+}
+
+.footerLinks {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  color: #555555;
+  padding: 0 1.6em;
+}
+
+.footerLinks p {
+  display: inline-block;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: .8em;
+}
+
+.footerLinks p span {
+  color: #2984e1;
+}
+
+.footerLinks ul {
+  display: inline-flex;
+  flex-flow: row nowrap;
+  margin-left: 1em;
+}
+
+.footerLinks li {
+  font-size: .8em;
+  height: 20px;
+  border-left: 1px solid #242424;
+}
+
+.footerLinks a {
+  padding: 0 1rem;
+}

@@ -1,0 +1,27 @@
+.quoteContainer {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url('../../assets/images/about-us-quote.jpg') no-repeat top center;
+  background-size: cover;
+  height: 705px;
+}
+
+.quote {
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.quote span {
+  font-size: 1.7em;
+  line-height: .9;
+  margin: 0 .2em;
+}
+
+.author {
+  font-size: 1em;
+  color: #88c08e;
+}

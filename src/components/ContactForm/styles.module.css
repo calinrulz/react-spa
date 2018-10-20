@@ -1,0 +1,16 @@
+.container {
+
+}
+
+.container input,
+.container textarea {
+  font-size: .8em;
+  line-height: 2.5;
+  margin-bottom: 2em;
+}
+
+.container button {
+  font-size: .9em;
+  text-transform: uppercase;
+  padding: .6em 1em;
+}

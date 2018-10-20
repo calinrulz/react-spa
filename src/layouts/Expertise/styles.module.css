@@ -1,0 +1,13 @@
+.cardContainer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.cardContainer p {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  min-height: 215px;
+}
